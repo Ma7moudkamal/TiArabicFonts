@@ -8,17 +8,19 @@ Thanks For @dbankier because i'm using hid module for dynamically loading custom
 
 
 --------
+Installation
 
-Steps:
 1- Download application source
+
 2- unzip yy.tidynamicfont.zip and move it to your iphone modules folder
+
 3- run & enjoy :D
 
 
 
 
-Follow Me 
-[link](http://www.twitter.com/mahmkamal)
+Follow Me on
+[Twitter](http://www.twitter.com/mahmkamal)
 
 Example Usage
 -------------
